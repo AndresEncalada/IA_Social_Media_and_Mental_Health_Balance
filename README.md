@@ -48,3 +48,4 @@ graph LR
     B2[StandardScaler]
     B3[Binarization]
     end
+```
